@@ -1,45 +1,10 @@
-# react-webpack-boilerplate
+# toeic-answer-sheet
 
-[![CircleCI](https://circleci.com/gh/kobakazu0429/react-webpack-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/kobakazu0429/react-webpack-boilerplate/tree/master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e894c223-9fb9-4ca6-8b5b-ce5fd38ae0a9/deploy-status)](https://app.netlify.com/sites/alc-toeic/deploys)
 
-My React + Webpack boilerplate 201905
-
-- yarn
-- webpack
-- typescript
-- prettier
-- eslint
-
-This code does **not** include framework, ci, and other (production) tools.
-
-## Bootstrap
-
-```bash
-# ... Setup node and yarn
-$ git clone git@github.com:kobakazu0429/react-webpack-boilerplate.git --depth 1 <your project name>
-$ cd <your project name>
-$ git fetch origin --unshallow
-$ git remote rm origin
-$ yarn install
-$ yarn dev    # Start webpack-dev-server
-$ yarn build  # Build to dist/
-$ yarn lint   # Check type and syntax
-```
-
----
-
-# {app_name}
+see here. [alc-toeic](https://alc-toeic.netlify.app/)
 
 ## How to dev
-
-### Setup
-
-```bash
-# ... Setup node and yarn
-$ git clone <git repository url>
-$ cd <your project name>
-$ yarn install
-```
 
 ### Commands
 
