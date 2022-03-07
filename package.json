@@ -25,7 +25,7 @@
     "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
-    "@kobakazu0429/eslint-config-typescript-react": "2.0.1",
+    "@kobakazu0429/eslint-config-typescript-react": "2.0.4",
     "@types/node": "12.12.70",
     "@types/react": "16.9.56",
     "@types/react-dom": "16.9.14",
